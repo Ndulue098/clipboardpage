@@ -3,7 +3,7 @@ import Right from "./ui/Right";
 
 export default function App(){
   return <div>
-    <Clipboard/>
+    <Clipboard/> 
     <Right/>
   </div>
 }
